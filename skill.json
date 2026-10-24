@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-fx-hedging-rate-router-skill",
+  "version": "1.0.0",
+  "description": "Autonomous multi-currency FX router computing real-time cross rates, volatility buffers, and forward hedging contracts",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["fx-hedging", "currency-exchange", "cross-rate", "volatility-buffer", "treasury", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
